@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./app/src/backend/spotify_music_downloader"
+    ]
+}
